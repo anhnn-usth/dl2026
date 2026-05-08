@@ -1,5 +1,3 @@
-import csv
-
 def dL_w0(w1, x, w0, y):
     return w1*x+w0-y
 
